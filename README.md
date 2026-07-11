@@ -79,7 +79,3 @@ reopen the app and go.
 - No jar validation beyond file size comparison during sync (no hash
   check yet).
 
-## License
-
-Add a license of your choice here (MIT is a reasonable default for a
-personal-use tool like this).
