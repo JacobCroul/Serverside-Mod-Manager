@@ -30,12 +30,12 @@ Built with Python + [CustomTkinter](https://github.com/TomSchimansky/CustomTkint
 ## Requirements
 
 - Python 3.10+
-- `customtkinter` (see `requirements.txt`)
+- `customtkinter`
 
 ## Install & run
 
 ```bash
-pip install -r requirements.txt
+pip install customtkinter
 python main.py
 ```
 
